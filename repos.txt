@@ -1,2 +1,2 @@
 ThisIsDara/mhr-cfw-go
-github.com/ajavadinezhad
+ajavadinezhad/zyrln
