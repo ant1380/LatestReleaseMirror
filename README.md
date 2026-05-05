@@ -166,4 +166,18 @@ sha256sum FILE_NAME
 | File | Size | Download |
 |------|------|----------|
 | `mhr-cfw-go.exe` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go.exe) |
+
+---
+
+<div id="ajavadinezhad--zyrln"></div>
+
+### ajavadinezhad--zyrln
+
+🔗 [source](https://github.com/ajavadinezhad/zyrln) – [<code><small>v1.3.0</small></code>](https://github.com/ajavadinezhad/zyrln/releases/tag/v1.3.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `zyrln-1.3.0.apk` | 22.8 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-1.3.0.apk) |
+| `zyrln-linux-amd64` | 9.6 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-linux-amd64) |
+| `zyrln-windows-amd64.exe` | 9.6 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-windows-amd64.exe) |
 <!-- RELEASES_END -->
