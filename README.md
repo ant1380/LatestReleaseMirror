@@ -161,23 +161,39 @@ sha256sum FILE_NAME
 
 ### ThisIsDara--mhr-cfw-go
 
-🔗 [source](https://github.com/ThisIsDara/mhr-cfw-go) – [<code><small>v1.1.0</small></code>](https://github.com/ThisIsDara/mhr-cfw-go/releases/tag/v1.1.0)
+🔗 [source](https://github.com/ThisIsDara/mhr-cfw-go) – [<code><small>v1.2.0</small></code>](https://github.com/ThisIsDara/mhr-cfw-go/releases/tag/v1.2.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhr-cfw-go.exe` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go.exe) |
+| `mhr-cfw-go-linux` | 6.4 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-linux) |
+| `mhr-cfw-go-windows.exe` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-windows.exe) |
 
 ---
 
-<div id="ajavadinezhad--zyrln"></div>
+<div id="sartoopjj--thefeed"></div>
 
-### ajavadinezhad--zyrln
+### sartoopjj--thefeed
 
-🔗 [source](https://github.com/ajavadinezhad/zyrln) – [<code><small>v1.3.0</small></code>](https://github.com/ajavadinezhad/zyrln/releases/tag/v1.3.0)
+🔗 [source](https://github.com/sartoopjj/thefeed) – [<code><small>v0.16.2</small></code>](https://github.com/sartoopjj/thefeed/releases/tag/v0.16.2)
 
 | File | Size | Download |
 |------|------|----------|
-| `zyrln-1.3.0.apk` | 22.8 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-1.3.0.apk) |
-| `zyrln-linux-amd64` | 9.6 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-linux-amd64) |
-| `zyrln-windows-amd64.exe` | 9.6 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-windows-amd64.exe) |
+| `thefeed-android-v0.16.2-arm64-v8a.apk` | 8.9 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-android-v0.16.2-arm64-v8a.apk) |
+| `thefeed-android-v0.16.2-armeabi-v7a.apk` | 9.1 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-android-v0.16.2-armeabi-v7a.apk) |
+| `thefeed-client-android-arm` | 11.3 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-android-arm) |
+| `thefeed-client-android-arm64` | 11.4 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-android-arm64) |
+| `thefeed-client-v0.16.2-darwin-amd64` | 11.6 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.16.2-darwin-amd64) |
+| `thefeed-client-v0.16.2-darwin-arm64` | 10.7 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.16.2-darwin-arm64) |
+| `thefeed-client-v0.16.2-freebsd-amd64` | 11.3 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.16.2-freebsd-amd64) |
+| `thefeed-client-v0.16.2-freebsd-arm64` | 10.3 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.16.2-freebsd-arm64) |
+| `thefeed-client-v0.16.2-linux-amd64` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.16.2-linux-amd64) |
+| `thefeed-client-v0.16.2-linux-arm64` | 2.8 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.16.2-linux-arm64) |
+| `thefeed-client-v0.16.2-windows-amd64.exe` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.16.2-windows-amd64.exe) |
+| `thefeed-server-darwin-amd64` | 15.0 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-server-darwin-amd64) |
+| `thefeed-server-darwin-arm64` | 14.3 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-server-darwin-arm64) |
+| `thefeed-server-freebsd-amd64` | 14.7 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-server-freebsd-amd64) |
+| `thefeed-server-freebsd-arm64` | 13.9 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-server-freebsd-arm64) |
+| `thefeed-server-linux-amd64` | 3.8 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-server-linux-amd64) |
+| `thefeed-server-linux-arm64` | 3.1 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-server-linux-arm64) |
+| `thefeed-server-windows-amd64.exe` | 3.8 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-server-windows-amd64.exe) |
 <!-- RELEASES_END -->
