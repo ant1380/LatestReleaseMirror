@@ -157,21 +157,15 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="thisisdara--mhr-cfw-go"></div>
+<div id="2dust--v2rayng"></div>
 
-### ThisIsDara--mhr-cfw-go
+### 2dust--v2rayNG
 
-🔗 [source](https://github.com/ThisIsDara/mhr-cfw-go) – [<code><small>v1.3.0</small></code>](https://github.com/ThisIsDara/mhr-cfw-go/releases/tag/v1.3.0)
+🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.1.7</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.1.7)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhr-cfw-go-darwin-amd64` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-darwin-amd64) |
-| `mhr-cfw-go-darwin-arm64` | 6.3 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-darwin-arm64) |
-| `mhr-cfw-go-linux-amd64` | 6.4 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-linux-amd64) |
-| `mhr-cfw-go-linux-arm64` | 6.2 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-linux-arm64) |
-| `mhr-cfw-go-windows-386.exe` | 6.3 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-windows-386.exe) |
-| `mhr-cfw-go-windows-amd64.exe` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-windows-amd64.exe) |
-| `mhr-cfw-go-windows-arm64.exe` | 6.2 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-windows-arm64.exe) |
+| `v2rayNG_2.1.7-fdroid_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7-fdroid_arm64-v8a.apk) |
 
 ---
 
@@ -184,55 +178,4 @@ sha256sum FILE_NAME
 | File | Size | Download |
 |------|------|----------|
 | `namida-v6.0.1-arm64-v8a.apk` | 45.2 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/namidaco/namida/namida-v6.0.1-arm64-v8a.apk) |
-
----
-
-<div id="projectdiscovery--subfinder"></div>
-
-### projectdiscovery--subfinder
-
-🔗 [source](https://github.com/projectdiscovery/subfinder) – [<code><small>v2.14.0</small></code>](https://github.com/projectdiscovery/subfinder/releases/tag/v2.14.0)
-
-| File | Size | Download |
-|------|------|----------|
-| `subfinder_2.14.0_checksums.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/projectdiscovery/subfinder/subfinder_2.14.0_checksums.txt) |
-| `subfinder_2.14.0_linux_386.zip` | 10.1 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/projectdiscovery/subfinder/subfinder_2.14.0_linux_386.zip) |
-| `subfinder_2.14.0_linux_amd64.zip` | 10.6 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/projectdiscovery/subfinder/subfinder_2.14.0_linux_amd64.zip) |
-| `subfinder_2.14.0_linux_arm.zip` | 10.1 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/projectdiscovery/subfinder/subfinder_2.14.0_linux_arm.zip) |
-| `subfinder_2.14.0_linux_arm64.zip` | 9.7 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/projectdiscovery/subfinder/subfinder_2.14.0_linux_arm64.zip) |
-| `subfinder_2.14.0_macOS_amd64.zip` | 10.8 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/projectdiscovery/subfinder/subfinder_2.14.0_macOS_amd64.zip) |
-| `subfinder_2.14.0_macOS_arm64.zip` | 10.2 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/projectdiscovery/subfinder/subfinder_2.14.0_macOS_arm64.zip) |
-| `subfinder_2.14.0_windows_386.zip` | 10.5 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/projectdiscovery/subfinder/subfinder_2.14.0_windows_386.zip) |
-| `subfinder_2.14.0_windows_amd64.zip` | 10.8 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/projectdiscovery/subfinder/subfinder_2.14.0_windows_amd64.zip) |
-| `subfinder_2.14.0_windows_arm64.zip` | 9.8 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/projectdiscovery/subfinder/subfinder_2.14.0_windows_arm64.zip) |
-
----
-
-<div id="sartoopjj--thefeed"></div>
-
-### sartoopjj--thefeed
-
-🔗 [source](https://github.com/sartoopjj/thefeed) – [<code><small>v0.17.5</small></code>](https://github.com/sartoopjj/thefeed/releases/tag/v0.17.5)
-
-| File | Size | Download |
-|------|------|----------|
-| `thefeed-android-v0.17.5-arm64-v8a.apk` | 8.9 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-android-v0.17.5-arm64-v8a.apk) |
-| `thefeed-android-v0.17.5-armeabi-v7a.apk` | 9.1 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-android-v0.17.5-armeabi-v7a.apk) |
-| `thefeed-client-android-arm` | 11.3 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-android-arm) |
-| `thefeed-client-android-arm64` | 11.4 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-android-arm64) |
-| `thefeed-client-v0.17.5-darwin-amd64` | 11.6 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.5-darwin-amd64) |
-| `thefeed-client-v0.17.5-darwin-arm64` | 10.7 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.5-darwin-arm64) |
-| `thefeed-client-v0.17.5-freebsd-amd64` | 11.3 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.5-freebsd-amd64) |
-| `thefeed-client-v0.17.5-freebsd-arm64` | 10.3 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.5-freebsd-arm64) |
-| `thefeed-client-v0.17.5-linux-amd64` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.5-linux-amd64) |
-| `thefeed-client-v0.17.5-linux-arm64` | 2.8 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.5-linux-arm64) |
-| `thefeed-client-v0.17.5-windows-amd64.exe` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.5-windows-amd64.exe) |
-| `thefeed-ios-v0.17.5-unsigned.ipa` | 5.9 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-ios-v0.17.5-unsigned.ipa) |
-| `thefeed-server-darwin-amd64` | 15.1 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-server-darwin-amd64) |
-| `thefeed-server-darwin-arm64` | 14.3 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-server-darwin-arm64) |
-| `thefeed-server-freebsd-amd64` | 14.7 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-server-freebsd-amd64) |
-| `thefeed-server-freebsd-arm64` | 13.9 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-server-freebsd-arm64) |
-| `thefeed-server-linux-amd64` | 3.8 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-server-linux-amd64) |
-| `thefeed-server-linux-arm64` | 3.1 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-server-linux-arm64) |
-| `thefeed-server-windows-amd64.exe` | 3.8 MB | [⬇️ Download](https://raw.githubusercontent.com/ant1380/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-server-windows-amd64.exe) |
 <!-- RELEASES_END -->
