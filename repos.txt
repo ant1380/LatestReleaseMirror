@@ -1,4 +1,2 @@
-ThisIsDara/mhr-cfw-go
-sartoopjj/thefeed
 namidaco/namida|namida-v6.0.1-arm64-v8a.apk
-projectdiscovery/subfinder
+2dust/v2rayNG|v2rayNG_2.1.7-fdroid_arm64-v8a.apk
